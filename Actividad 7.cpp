@@ -19,9 +19,9 @@ using namespace std;
 
 std::set<std::string> conjunto1;
 std::set<std::string> conjunto2;
+int opcion;
 int tamannoC1 = 0;
 int tamannoC2 = 0;
-int opcion;
 
 void ingresar(){
     string elemento;
